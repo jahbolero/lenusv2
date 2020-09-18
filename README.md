@@ -1,2 +1,2 @@
 # lenusv2
-Lenus is a cardiovascular risk prediction app built using AWS, Azure ML, and React
+This is the API for Lenus, a cardiovascular risk prediction app built using .Net Core, AWS, & Azure ML
